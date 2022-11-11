@@ -1,5 +1,5 @@
 # World Weather Analysis
-This project demonstartes how to use API calls to openweathermap.org, maps.googleapis.com and use the Python extension gmaps to produce images of maps with markers and popups.
+This project demonstrates how to use API calls to openweathermap.org, maps.googleapis.com and use the Python extension gmaps to produce images of maps with markers and popups.
 
 Preferred vacation spots map based on user selected temperature range with markers and pop-ups
 ![This is an image](/Vacation_Search/WeatherPy_vacation_map.PNG)
